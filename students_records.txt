@@ -1,0 +1,4 @@
+ID,Name,Subject,Marks
+101,Ihsan Ul Haq,Python,95.0
+102,Ali Raza,Machine Learning,88.5
+103,Sara Khan,Cloud Computing,92.0

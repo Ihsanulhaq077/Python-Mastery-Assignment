@@ -1,0 +1,51 @@
+[
+    {
+        "student_id": 101,
+        "name": "Ihsan Ul Haq",
+        "age": 20,
+        "class_name": "AI-1st Year",
+        "marks": {
+            "Programming": 95.0,
+            "Mathematics": 92.0,
+            "English": 88.0,
+            "Physics": 91.0
+        }
+    },
+    {
+        "student_id": 102,
+        "name": "Sara Khan",
+        "age": 19,
+        "class_name": "AI-1st Year",
+        "marks": {
+            "Programming": 96.0,
+            "Mathematics": 94.0,
+            "English": 90.0,
+            "Physics": 92.0
+        }
+    },
+    {
+        "student_id": 103,
+        "name": "Ali Raza",
+        "age": 21,
+        "class_name": "AI-1st Year",
+        "marks": {
+            "Programming": 78.0,
+            "Mathematics": 82.0,
+            "English": 75.0,
+            "Physics": 80.0
+        }
+    },
+    {
+        "student_id": 104,
+        "name": "Bilal Ahmad",
+        "age": 20,
+        "class_name": "AI-1st Year",
+        "marks": {
+            "Programming": 48.0,
+            "Mathematics": 45.0,
+            "English": 52.0,
+            "Physics": 42.0
+        }
+    }
+]
+
